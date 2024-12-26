@@ -1,0 +1,40 @@
+{
+    "name": "Yue Pu",
+    "location": "Yuxi,China",
+    "phone": "157-0695-2650",
+    "wx":"puy4",
+    "skills": "skills",
+    "experience": "Experience",
+    "education": "Education",
+    "intent": "Looking for software development-related jobs.",
+    
+    "skills_items": "Familiar with Python, JavaScript, React, Git, Linux.",
+    "experience_items": [
+      {
+        "jobTitle": "AI Lab Assistant",
+        "location": "The Erindale Academy",
+        "date": "2024/06 - 2024/08",
+        "text": "High school-level robot work."
+      },
+      {
+        "jobTitle": "Summer Camp Counsellor",
+        "location": "The Erindale Academy",
+        "date": "2023/05 - 2023/09",
+        "text": "Summer camp related tasks."
+      },
+      {
+        "jobTitle": "Frontend Developer",
+        "location": "Capstone Course",
+        "date": "2023/09 - 2024/05",
+        "text": "Built a multiplayer web game with Next.js, Ably, Vercel, Tailwind, and MUI."
+      }
+    ],
+    "education_items": [
+      {
+        "location": "McMaster University",
+        "text": "BASc in CompSci",
+        "date":"2018/09-2024/06"
+      }
+      
+    ]
+  }

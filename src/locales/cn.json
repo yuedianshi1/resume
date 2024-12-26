@@ -1,0 +1,41 @@
+{
+    "name": "普越",
+    "location": "玉溪，中国",
+    "phone": "157-0695-2650",
+
+    "wx":"puy4",
+    "skills": "技能",
+    "experience": "经验",
+    "education": "教育",
+    "intent": "寻找与软件开发相关的工作。",
+    "skills_items": "熟悉 Python、JavaScript、React、Git、Linux。",
+    "experience_items": [
+      {
+        "jobTitle": "AI 实验室助理",
+        "location": "厄林代尔学院",
+        "date": "2024/06 - 2024/08",
+        "text": "高中级别的机器人工作"
+      },
+      {
+        "jobTitle": "夏令营辅导员",
+        "location": "厄林代尔学院",
+        "date": "2023/05 - 2023/09",
+        "text": "夏令营相关任务"
+      },
+      {
+        "jobTitle": "前端开发者",
+        "location": "毕业设计课程",
+        "date": "2023/09 - 2024/05",
+        "text": "使用 Next.js、Ably、Vercel、Tailwind 和 MUI 制作了一个多人在线游戏。"
+      }
+    ],
+
+  "education_items": [
+    {
+      "location": "麦克马斯特大学",
+      "text": "计算机学士",
+      "date":"2018/09-2024/06"
+    }
+    
+  ]
+  }
